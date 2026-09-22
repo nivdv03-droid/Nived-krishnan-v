@@ -1,0 +1,46 @@
+name: 🦖 Generate Dinosaur Animation
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  dinosaur:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 🚀 Checkout repository
+        uses: actions/checkout@v4
+
+      - name: 🐍 Generate futuristic dinosaur GIF
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y imagemagick
+
+          mkdir -p assets
+
+          convert -size 1000x300 xc:'#050914' \
+            -gravity center \
+            -fill '#00e5ff' \
+            -pointsize 28 \
+            -annotate +0-100 'SYSTEM TRAVELLER // 001' \
+            -fill '#7CFF00' \
+            -pointsize 42 \
+            -annotate +0+20 '🦖  >>>>>>>>>>>>>>>>>>>>' \
+            -fill '#00e5ff' \
+            -pointsize 20 \
+            -annotate +0+100 'EXPLORING THE FUTURE...' \
+            assets/dinosaur.gif
+
+      - name: 💾 Save animation
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/dinosaur.gif
+          git commit -m "Add futuristic dinosaur animation" || echo "No changes"
+          git push

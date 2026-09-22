@@ -81,37 +81,27 @@ I enjoy the combination of **logic + creativity** — whether it's programming, 
 ```
 
 ### 🤖 Artificial Intelligence
-Exploring how AI can be used to solve practical problems and improve everyday systems.
+Exploring how AI can be used to solve practical problems.
 
 ### 💻 Programming
 Building my programming fundamentals and learning how to turn ideas into working solutions.
 
 ### 🌐 Web Technology
-Interested in creating useful, clean and interactive digital experiences.
+Interested in creating useful, clean and interactive websites.
 
 ### 🧩 Problem Solving
-I enjoy breaking complicated problems into smaller, understandable pieces.
+I enjoy breaking complicated problems into smaller, manageable problems.
 
 ### 🎨 Creativity
-Drawing and creative thinking are another way I like to express ideas.
+Drawing and creative thinking are another part of how I approach ideas.
 
----
+<h2>🚀 CURRENTLY LEARNING</h2>
 
-# 🚀 CURRENTLY LEARNING
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=2200&pause=700&color=36BCF7&center=true&vCenter=true&width=600&height=50&lines=01+%7C+Programming;02+%7C+Python;03+%7C+Web+Development;04+%7C+Git+%26+GitHub;05+%7C+Artificial+Intelligence;06+%7C+Software+Development" />
+</p>
 
-```text
-01  ███████████████████░  Programming Fundamentals
-
-02  ███████████████░░░░░  Python
-
-03  █████████████░░░░░░░  Web Development
-
-04  ███████████░░░░░░░░░  Git & GitHub
-
-05  ██████████░░░░░░░░░░  Artificial Intelligence
-
-06  ████████░░░░░░░░░░░░  Software Development
-```
+> 💡 I'm currently focused on strengthening my fundamentals rather than trying to rush through everything.
 
 I'm currently focused on strengthening my fundamentals rather than trying to rush through everything.
 

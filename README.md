@@ -64,39 +64,9 @@ I enjoy the combination of **logic + creativity** — whether it's programming, 
 
 ---
 
-# 💻 TECH STACK
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,python,html,css" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=2500&pause=700&color=36BCF7&center=true&vCenter=true&width=600&height=50&lines=Programming+%E2%96%B6%E2%96%B6%E2%96%B6%E2%96%B6%E2%96%B6%E2%96%B6%E2%96%B6%E2%96%B6%E2%96%B6%E2%96%B7;Web+Development+%E2%96%B6%E2%96%B6%E2%96%B6%E2%96%B6%E2%96%B6%E2%96%B6%E2%96%B6%E2%96%B7%E2%96%B7%E2%96%B7;Git+%26+GitHub+%E2%96%B6%E2%96%B6%E2%96%B6%E2%96%B6%E2%96%B6%E2%96%B6%E2%96%B6%E2%96%B6%E2%96%B7%E2%96%B7;AI+%E2%96%B6%E2%96%B6%E2%96%B6%E2%96%B6%E2%96%B6%E2%96%B6%E2%96%B7%E2%96%B7%E2%96%B7%E2%96%B7;Problem+Solving+%E2%96%B6%E2%96%B6%E2%96%B6%E2%96%B6%E2%96%B6%E2%96%B6%E2%96%B6%E2%96%B6%E2%96%B7%E2%96%B7" />
 </p>
-
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-### Exploring
-
-<p>
-<img src="https://skillicons.dev/icons?i=ai,python" />
-</p>
-
-```text
-Programming        █████████████░░░░░░░  Learning
-Web Development    ███████████░░░░░░░░░  Exploring
-Git & GitHub       ██████████████░░░░░░  Building
-Artificial Intel.  ██████████░░░░░░░░░░  Exploring
-Problem Solving    █████████████░░░░░░░  Developing
-```
-
-> My goal isn't to know everything.
-> **It's to keep learning something new.**
-
----
-
 ## 🧠 AREAS OF INTEREST
 
 | Area | Focus |

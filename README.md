@@ -346,7 +346,11 @@ My long-term goal is to become someone who can **take an idea from a blank page 
 ```
 
 ---
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+LAUNCHING+IDEAS...;%F0%9F%92%BB+BUILDING+PROJECTS...;%E2%9A%A1+LEARNING+EVERY+DAY...;%F0%9F%8C%8C+EXPLORING+THE+FUTURE..." alt="Animated status">
+
+</div>
 <h2 align="center">🌐 CONNECT WITH ME</h2>
 
 <div align="center">

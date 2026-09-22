@@ -81,35 +81,38 @@ I enjoy the combination of **logic + creativity** — whether it's programming, 
 ```
 
 ### 🤖 Artificial Intelligence
-Exploring how AI can be used to solve practical problems.
+
+Exploring how AI can be used to solve practical problems and build useful applications.
 
 ### 💻 Programming
-Building my programming fundamentals and learning how to turn ideas into working solutions.
+
+Building my programming fundamentals and learning how software works.
 
 ### 🌐 Web Technology
-Interested in creating useful, clean and interactive websites.
+
+Interested in creating useful, clean and interactive web experiences.
 
 ### 🧩 Problem Solving
-I enjoy breaking complicated problems into smaller, manageable problems.
+
+I enjoy breaking complicated problems into smaller, manageable pieces.
 
 ### 🎨 Creativity
-Drawing and creative thinking are another part of how I approach ideas.
+
+Drawing and creative thinking are another part of what I enjoy.
 
 <h2>🚀 CURRENTLY LEARNING</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=2200&pause=700&color=36BCF7&center=true&vCenter=true&width=600&height=50&lines=01+%7C+Programming;02+%7C+Python;03+%7C+Web+Development;04+%7C+Git+%26+GitHub;05+%7C+Artificial+Intelligence;06+%7C+Software+Development" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Strengthening+my+programming+fundamentals;Exploring+AI+and+web+development;Building+small+projects" />
 </p>
 
-> 💡 I'm currently focused on strengthening my fundamentals rather than trying to rush through everything.
-
-I'm currently focused on strengthening my fundamentals rather than trying to rush through everything.
+> 💡 I'm currently focused on strengthening my programming fundamentals.
 
 ---
 
 # 🧪 PROJECT LAB
 
-My GitHub is becoming a collection of experiments, projects and things I build while learning.
+My GitHub is becoming a collection of experiments and projects.
 
 ```text
 ╔══════════════════════════════════════════════╗
@@ -117,16 +120,13 @@ My GitHub is becoming a collection of experiments, projects and things I build w
 ╠══════════════════════════════════════════════╣
 ║                                              ║
 ║  🟢 ACTIVE                                   ║
-║  └── Learning & experimenting                ║
+║     └─ Learning & experimenting              ║
 ║                                              ║
 ║  🟡 IN DEVELOPMENT                           ║
-║  └── Future projects                         ║
+║     └─ Future projects                       ║
 ║                                              ║
 ║  🔵 EXPERIMENTAL                             ║
-║  └── AI / Web / Creative ideas               ║
-║                                              ║
-║  ⚪ ARCHIVED                                 ║
-║  └── Previous experiments                   ║
+║     └─ Testing new ideas                     ║
 ║                                              ║
 ╚══════════════════════════════════════════════╝
 ```

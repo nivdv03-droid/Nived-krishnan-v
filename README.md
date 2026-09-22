@@ -389,12 +389,44 @@ I also enjoy:
 📚 **Learning things outside my comfort zone**
 
 ---
-| Platform | Connect |
-|---|---|
-| 💻 GitHub | [Visit My GitHub](https://github.com/tirforge/my-tech-journey.git) |
- |👨🏻‍💻 Email | [Visit My E-mail ](nivd.v03@gmail.com) |
- | Instagram | [Visit My Instagram ](https://www.instagram.com/nivd.krxn?igsi=eGw3NGphY296Yjg=) |
-| 💼 LinkedIn | [Connect on LinkedIn](https://www.linkedin.com/in/nived-krishnan-898b29432?utm_source=share_via&utm_content=profile&utm_medium=member_android) |
+<h2 align="center">🌐 CONNECT WITH ME</h2>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/nived-krishnan-898b29432?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:nivd.v03@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/nivdv03-droid">
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║        🌐  CONNECTION TERMINAL // ONLINE               ║
+║                                                          ║
+║        ┌────────────┐   ┌────────────┐   ┌──────────┐   ║
+║        │ 💼 LINKEDIN│   │ 📧  EMAIL  │   │ 🐙 GITHUB│   ║
+║        └────────────┘   └────────────┘   └──────────┘   ║
+║                                                          ║
+║              STATUS : ● AVAILABLE                       ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
 # 🌌 FINAL TRANSMISSION
 
 <div align="center">

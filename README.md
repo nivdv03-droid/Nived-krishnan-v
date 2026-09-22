@@ -99,23 +99,17 @@ Problem Solving    █████████████░░░░░░░ 
 
 ---
 
-# 🧠 AREAS OF INTEREST
+## 🧠 AREAS OF INTEREST
 
-```text
-                    ┌─────────────────────┐
-                    │     TECHNOLOGY      │
-                    └──────────┬──────────┘
-                               │
-             ┌─────────────────┼─────────────────┐
-             ▼                 ▼                 ▼
-          🤖 AI             💻 CODE           🌐 WEB
-             │                 │                 │
-             └────────────┬────┴────┬────────────┘
-                          ▼         ▼
-                       🚀 BUILD   🧩 SOLVE
-                          │
-                          ▼
-                     🌎 REAL IMPACT
+| Area | Focus |
+|---|---|
+| 🤖 Artificial Intelligence | Exploring AI to solve practical problems |
+| 💻 Programming | Building strong programming fundamentals |
+| 🌐 Web Technology | Creating useful and interactive websites |
+| 🧩 Problem Solving | Learning to approach problems logically |
+| 🚀 Projects | Turning ideas into working solutions |
+
+> 🌍 **BUILD • SOLVE • CREATE • REAL IMPACT**
 ```
 
 ### 🤖 Artificial Intelligence

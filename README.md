@@ -389,7 +389,12 @@ I also enjoy:
 📚 **Learning things outside my comfort zone**
 
 ---
-
+| Platform | Connect |
+|---|---|
+| 💻 GitHub | [Visit My GitHub](https://github.com/tirforge/my-tech-journey.git) |
+ |👨🏻‍💻 Email | [Visit My E-mail ](nivd.v03@gmail.com) |
+ | Instagram | [Visit My Instagram ](https://www.instagram.com/nivd.krxn?igsi=eGw3NGphY296Yjg=) |
+| 💼 LinkedIn | [Connect on LinkedIn](https://www.linkedin.com/in/nived-krishnan-898b29432?utm_source=share_via&utm_content=profile&utm_medium=member_android) |
 # 🌌 FINAL TRANSMISSION
 
 <div align="center">
@@ -415,3 +420,4 @@ I also enjoy:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:101010,100:050505&height=120&section=footer"/>
 
 </div>
+

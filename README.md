@@ -40,20 +40,20 @@ I'm interested in understanding how technology works, experimenting with new too
 
 I enjoy the combination of **logic + creativity** — whether it's programming, exploring AI, participating in hackathons, designing ideas, or simply learning something I've never tried before.
 
-```text
-┌─────────────────────────────────────────┐
-│              CURRENT MISSION             │
-├─────────────────────────────────────────┤
-│                                         │
-│  Learn → Build → Experiment → Improve   │
-│                                         │
-│  ███████████████████░░░░░  DEVELOPMENT  │
-│                                         │
-└─────────────────────────────────────────┘
-```
+<div align="center">
 
----
+### 🚀 CURRENT MISSION
 
+`LEARN` → `BUILD` → `EXPERIMENT` → `IMPROVE`
+
+<br>
+
+**DEVELOPING • EXPLORING • CREATING**
+
+</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=2500&pause=700&color=36BCF7&center=true&vCenter=true&width=500&height=50&lines=Learning+new+things...;Building+new+ideas...;Experimenting+with+technology...;Improving+every+day..." />
+</p>
 # 🎓 EDUCATION
 
 | Level | Institution | Result / Status |

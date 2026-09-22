@@ -1,226 +1,150 @@
-# ⚡ Nived Krishnan V
+<div align="center">⚡ NIVED KRISHNAN V
 
-### 💻 B.Tech Information Technology Student | 🚀 Tech Explorer | 🎨 Creative Thinker
+"B.Tech Information Technology Student" • "Tech Explorer" • "Creative Thinker"
 
-> **“The future belongs to those who keep learning, building, and creating.”**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Learning+%E2%80%A2+Building+%E2%80%A2+Creating+%E2%80%A2+Improving;Exploring+the+world+of+Technology+%F0%9F%9A%80;Turning+ideas+into+real+projects+%F0%9F%92%A1" /><br><img src="https://komarev.com/ghpvc/?username=nivdv03-droid&label=PROFILE%20VIEWS&color=00f7ff&style=for-the-badge" /></div>---
 
-Welcome to my GitHub! 👋  
-I'm **Nived Krishnan**, an Information Technology student at **Government Engineering College, Barton Hill**, currently exploring the world of programming, software, artificial intelligence, and emerging technologies.
+🧬 "01 // ABOUT ME"
 
-This repository is more than just a profile — it's a snapshot of my journey as I learn, experiment, build projects, make mistakes, and continuously improve.
+«Curiosity → Learning → Experimentation → Building → Growth»
 
----
+Hi! I'm Nived Krishnan V, a B.Tech Information Technology student at Government Engineering College, Barton Hill.
 
-## 🧬 01 // WHO AM I?
+I'm at the beginning of my journey into technology, exploring programming, software development, artificial intelligence, web technologies, and creative problem-solving.
 
-I'm a first-year **B.Tech Information Technology student** with a strong curiosity for technology and problem-solving.
+I believe that technology becomes meaningful when it is used to solve real problems.
 
-I enjoy discovering how things work, experimenting with new tools, and turning ideas into something practical.
+I'm currently focused on strengthening my fundamentals, experimenting with different technologies, participating in hackathons, and gradually turning ideas into working projects.
 
-I'm still at the beginning of my journey, but I'm focused on building a strong foundation rather than rushing through it.
+⚡ Quick Profile
 
-```text
-┌──────────────────────────────────────────────┐
-│              NIVED KRISHNAN V                │
-├──────────────────────────────────────────────┤
-│ 🎓 B.Tech Information Technology             │
-│ 🏫 GEC Barton Hill                           │
-│ 💻 Technology & Programming                  │
-│ 🤖 AI & Emerging Technologies                │
-│ 🎨 Drawing & Creative Thinking               │
-│ 🚀 Hackathons & Innovation                   │
-│ 🧠 Continuous Learning                       │
-└──────────────────────────────────────────────┘
-```
-
-### ⚡ Quick Snapshot
-
-- 🎓 **Course:** B.Tech in Information Technology
-- 🏫 **Institution:** Government Engineering College, Barton Hill
-- 📚 **Academic Achievement:** 97% in Higher Secondary
-- 🏆 **SSLC:** Full A+
-- 💡 **Mindset:** Learn → Experiment → Build → Improve
-- 🎨 **Creative Side:** Drawing & visual creativity
-- 🚀 **Current Mission:** Building my foundation in technology
+| 
+🎓 Degree| B.Tech Information Technology
+🏫 College| Government Engineering College, Barton Hill
+📊 Higher Secondary| 97%
+🏆 SSLC| Full A+
+💻 Current Focus| Programming & Technology
+🤖 Exploring| AI & Emerging Technologies
+🎨 Creative Side| Drawing & Visual Creativity
+🚀 Goal| Build useful technology
 
 ---
 
-# 🎓 02 // EDUCATION
+🎓 "02 // EDUCATION"
 
-| 🎓 Qualification | 🏫 Institution | 📌 Achievement |
-|---|---|---|
-| **B.Tech – Information Technology** | Government Engineering College, Barton Hill | Currently Pursuing |
-| **Higher Secondary – Plus Two** | Kerala State Board | **97%** |
-| **SSLC – Class 10** | Kerala State Board | **Full A+** |
+🎓 Qualification| 🏫 Institution| 📈 Result / Status
+B.Tech – Information Technology| Government Engineering College, Barton Hill| 🚀 Currently Pursuing
+Higher Secondary – Plus Two| Kerala State Board| ⭐ 97%
+SSLC – Class 10| Kerala State Board| 🏆 Full A+
 
-Education is only one part of the journey.
+📚 Education Philosophy
 
-For me, the real learning happens when I take something I have studied and try to actually **build with it**.
+For me, education isn't just about marks.
 
----
-
-# 🛠️ 03 // TECHNICAL SKILLS
-
-### 💻 Programming
-
-```text
-C Programming        ███████░░░  Learning
-Python               ██████░░░░  Exploring
-```
-
-### 🌐 Web Technologies
-
-```text
-HTML                 ██████░░░░  Learning
-CSS                  █████░░░░░  Learning
-JavaScript           ███░░░░░░░  Exploring
-```
-
-### 🔧 Tools & Platforms
-
-```text
-Git                  ██████░░░░  Learning
-GitHub               ███████░░░  Learning
-VS Code               ███████░░░  Using
-AI Development Tools ██████░░░░  Exploring
-```
-
-### 🧠 Core Skills
-
-- Problem Solving
-- Logical Thinking
-- Creative Thinking
-- Team Collaboration
-- Presentation
-- Communication
-- Learning New Technologies
-
-> **Skill level doesn't define the journey. Consistency does.**
+It's about developing the ability to understand, question, experiment and create.
 
 ---
 
-# 🤖 04 // TECHNOLOGY INTERESTS
+💻 "03 // TECH STACK"
 
-I'm particularly interested in areas where technology can be used to solve practical problems.
+👨‍💻 Programming
 
-### 🤖 Artificial Intelligence
+<p>
+<img src="https://skillicons.dev/icons?i=c,python" />
+</p>🌐 Web Development
 
-Exploring how AI can transform the way people learn, work, create, and solve problems.
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>🛠️ Tools & Platforms
 
-### 💻 Software Development
-
-Interested in understanding how applications are designed, developed, tested, and improved.
-
-### 🌐 Web Development
-
-Learning how modern websites and web applications are built from the ground up.
-
-### 🧠 Problem Solving
-
-I enjoy breaking complicated problems into smaller pieces and finding logical solutions.
-
-### 🚀 Innovation
-
-Interested in ideas that combine technology with real-world needs.
-
-### 🏆 Hackathons
-
-Hackathons are a great way to learn quickly, work with a team, and turn an idea into a prototype.
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>«⚠️ Learning in progress: I'm still developing my skills in these technologies.
+This section will evolve as I gain more experience.»
 
 ---
 
-# 📚 05 // CURRENTLY LEARNING
+🧠 "04 // SKILL MATRIX"
 
-My current focus is on developing the fundamentals that will help me become a better developer.
-
-```text
-╔══════════════════════════════════════════════╗
-║              CURRENT LEARNING                 ║
-╠══════════════════════════════════════════════╣
-║                                              ║
-║  C Programming          ███████░░░           ║
-║  Python                 ██████░░░░           ║
-║  HTML & CSS             ██████░░░░           ║
-║  Git & GitHub           ███████░░░           ║
-║  Problem Solving        ███████░░░           ║
-║  Web Development        █████░░░░░           ║
-║  Artificial Intelligence█████░░░░░           ║
-║                                              ║
-╚══════════════════════════════════════════════╝
-```
-
-### 🎯 My learning cycle
-
-```text
-        ┌───────────┐
-        │   LEARN   │
-        └─────┬─────┘
-              ↓
-        ┌───────────┐
-        │ EXPERIMENT │
-        └─────┬─────┘
-              ↓
-        ┌───────────┐
-        │   BUILD   │
-        └─────┬─────┘
-              ↓
-        ┌───────────┐
-        │   FAIL    │
-        └─────┬─────┘
-              ↓
-        ┌───────────┐
-        │  IMPROVE  │
-        └─────┬─────┘
-              │
-              └──────────────→ 🔁
-```
+╔══════════════════════════════════════════════════╗
+║                 NIVED_OS // STATUS                ║
+╠══════════════════════════════════════════════════╣
+║                                                  ║
+║  C Programming       ███████░░░   LEARNING       ║
+║  Python              ██████░░░░   EXPLORING      ║
+║  HTML / CSS          ██████░░░░   LEARNING       ║
+║  JavaScript          ████░░░░░░   EXPLORING      ║
+║  Git / GitHub        ███████░░░   DEVELOPING     ║
+║  Problem Solving     ███████░░░   IMPROVING      ║
+║  AI Tools            ██████░░░░   EXPLORING      ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
 
 ---
 
-# 🚀 06 // MY BUILDING PHILOSOPHY
+🤖 "05 // AREAS OF INTEREST"
 
-I believe that the best way to understand technology is to **use it**.
+🧠 Artificial Intelligence
 
-Instead of only watching tutorials or reading documentation, I want to gradually move toward creating things myself.
+Exploring how AI can be used to create smarter tools, automate tasks and solve practical problems.
 
-```text
-Knowledge
-    ↓
-Understanding
-    ↓
-Experimentation
-    ↓
-Projects
-    ↓
-Real Experience
-    ↓
-Better Skills
-```
+💻 Software Development
 
-Every project doesn't need to be perfect.
+Interested in understanding how ideas become functional software.
 
-Every project needs to teach something.
+🌐 Web Development
+
+Learning how modern websites and applications are designed and developed.
+
+🚀 Innovation
+
+Interested in technology that can turn simple ideas into useful solutions.
+
+🏆 Hackathons
+
+I enjoy the challenge of creating, presenting and improving ideas within limited time.
+
+🎨 Creative Technology
+
+Interested in combining creativity and technology to create something different.
 
 ---
 
-# 💡 07 // PROJECTS & EXPERIMENTS
+📚 "06 // CURRENTLY LEARNING"
 
-My GitHub will gradually become a collection of things I've learned and built.
+                 LEARNING ENGINE
+                       │
+       ┌───────────────┼───────────────┐
+       ↓               ↓               ↓
+   PROGRAMMING       WEB DEV           AI
+       │               │               │
+       ↓               ↓               ↓
+      C/PYTHON      HTML/CSS/JS     AI TOOLS
+       │               │               │
+       └───────────────┼───────────────┘
+                       ↓
+                 BUILD PROJECTS
+                       ↓
+                  GAIN EXPERIENCE
 
-### 🔬 What I Want To Build
+Current Focus
 
-- 🌐 Web applications
-- 🤖 AI-powered tools
-- 🧩 Problem-solving projects
-- 📱 Useful applications
-- ⚙️ Automation experiments
-- 🏆 Hackathon prototypes
-- 📊 Data-driven projects
-- 🎨 Creative technology projects
+- 💻 Strengthening programming fundamentals
+- 🧩 Improving logical problem solving
+- 🌐 Learning web development
+- 🔧 Understanding Git & GitHub
+- 🤖 Exploring AI tools
+- 🚀 Building small projects
+- 🏆 Participating in hackathons
 
-### 🧪 Project Mindset
+---
 
-```text
+🚀 "07 // PROJECT LAB"
+
+This section will grow as I build more.
+
+🧪 Current Project Direction
+
 IDEA
  ↓
 RESEARCH
@@ -235,317 +159,283 @@ TEST
  ↓
 IMPROVE
  ↓
-SHIP 🚀
-```
+🚀 RELEASE
+
+🔭 Things I Want To Build
+
+Project Type| Goal
+🌐 Web Applications| Solve practical problems
+🤖 AI Tools| Experiment with intelligent systems
+⚙️ Automation| Make repetitive tasks easier
+🧩 Problem Solvers| Convert problems into useful software
+🏆 Hackathon Projects| Build under real constraints
+🎨 Creative Projects| Combine technology + creativity
 
 ---
 
-# 🏆 08 // HACKATHONS & TEAMWORK
+🏆 "08 // HACKATHON MODE"
 
-Hackathons are one of the ways I want to challenge myself outside the classroom.
+╭────────────────────────────────────────────╮
+│              HACKATHON MODE                │
+├────────────────────────────────────────────┤
+│                                            │
+│   💡 IDEA                                  │
+│     ↓                                      │
+│   🔍 RESEARCH                              │
+│     ↓                                      │
+│   🧠 SOLUTION                              │
+│     ↓                                      │
+│   💻 PROTOTYPE                             │
+│     ↓                                      │
+│   🧪 TEST                                  │
+│     ↓                                      │
+│   🎤 PRESENT                               │
+│     ↓                                      │
+│   🚀 IMPROVE                               │
+│                                            │
+╰────────────────────────────────────────────╯
 
-They provide an opportunity to:
-
-- 💡 Generate ideas
-- 🤝 Work with a team
-- 🧠 Solve problems under constraints
-- 🛠️ Learn unfamiliar technologies
-- 🎤 Present solutions
-- 🚀 Turn concepts into prototypes
-
-I'm interested in participating in more hackathons and collaborative projects as I continue developing my skills.
-
----
-
-# 🎨 09 // BEYOND CODE
-
-Technology isn't the only thing I enjoy.
-
-I also have an interest in **drawing and creative work**.
-
-```text
-             ┌──────────────┐
-             │  CREATIVITY  │
-             └──────┬───────┘
-                    ↓
-       ┌────────────┴────────────┐
-       ↓                         ↓
-    🎨 ART                    💻 CODE
-       ↓                         ↓
-       └────────────┬────────────┘
-                    ↓
-              💡 NEW IDEAS
-```
-
-I believe creativity and technology can complement each other.
-
-A developer doesn't only need to know **how to build something** — understanding **what should be built** is equally important.
+Hackathons give me an opportunity to work with people, learn quickly, experiment with unfamiliar tools and turn an idea into something tangible.
 
 ---
 
-# 🧠 10 // WHAT I'M WORKING TOWARDS
+🎨 "09 // BEYOND CODE"
 
-My long-term goal is to become a strong technology professional with the ability to understand problems, design solutions, and build useful products.
+«Creativity doesn't stop at code.»
 
-### Short Term
+Apart from technology, I enjoy drawing and creative work.
 
-- 📚 Strengthen programming fundamentals
-- 💻 Become comfortable with Git and GitHub
-- 🌐 Learn web development
-- 🧠 Improve problem-solving skills
-- 🏗️ Build small projects consistently
+I believe creativity can influence the way we approach technical problems.
 
-### Mid Term
-
-- 🚀 Build larger projects
-- 🤖 Explore AI and machine learning
-- 🏆 Participate in more hackathons
-- 🤝 Collaborate with developers
-- 🌎 Explore open-source development
-
-### Long Term
-
-- 💻 Become a highly capable software professional
-- 🤖 Work with emerging technologies
-- 🌍 Build technology that solves meaningful problems
-- 🚀 Create products rather than only consume them
-- 📈 Keep learning throughout my career
+        🎨 CREATIVITY
+              │
+              ↓
+        💡 NEW IDEAS
+              │
+              ↓
+        🧠 DIFFERENT
+        PERSPECTIVES
+              │
+              ↓
+        💻 BETTER
+        SOLUTIONS
 
 ---
 
-# 📈 11 // THE JOURNEY AHEAD
+👨‍💻 "10 // ME IN CODE"
 
-```text
-2026
- │
- ├── 🎓 Start B.Tech IT
- ├── 💻 Learn Programming
- ├── 🌐 Explore Web Development
- └── 🧠 Build Strong Fundamentals
-          │
-          ↓
-2027
- │
- ├── 🚀 Bigger Projects
- ├── 🤖 Explore AI
- ├── 🏆 More Hackathons
- └── 🤝 Collaboration
-          │
-          ↓
-2028
- │
- ├── 🧩 Advanced Development
- ├── 🌎 Open Source
- ├── 💼 Real-World Experience
- └── 🚀 Product Building
-          │
-          ↓
-2029+
- │
- └── 🌟 Build. Lead. Innovate.
-```
-
----
-
-# ⚡ 12 // A LITTLE ABOUT ME IN CODE
-
-```python
 class NivedKrishnan:
 
     name = "Nived Krishnan V"
-    field = "Information Technology"
+    role = "B.Tech IT Student"
+
+    education = {
+        "degree": "B.Tech Information Technology",
+        "college": "GEC Barton Hill"
+    }
 
     interests = [
+        "Technology",
         "Programming",
         "Artificial Intelligence",
         "Web Development",
         "Innovation",
-        "Problem Solving",
-        "Creative Work"
+        "Problem Solving"
+    ]
+
+    creative_side = [
+        "Drawing",
+        "Creative Thinking"
     ]
 
     currently_learning = [
         "C Programming",
         "Python",
         "Web Development",
-        "Git & GitHub",
-        "Problem Solving"
+        "Git & GitHub"
     ]
 
-    hobbies = [
-        "Drawing",
-        "Exploring Technology"
-    ]
-
-    mindset = "Learn. Build. Improve."
+    mindset = "Learn • Build • Improve"
 
     def future(self):
-        return "Keep building until ideas become reality."
+        return "Build technology that creates value."
 
 
 me = NivedKrishnan()
 
 print(me.future())
-```
 
 ---
 
-# 🌌 13 // MY MINDSET
+🗺️ "11 // ROADMAP"
 
-> ### **Don't try to know everything.**
-> ### **Try to learn something every day.**
-
-Technology changes constantly.
-
-Languages change.  
-Frameworks change.  
-Tools change.  
-AI is changing how software is built.
-
-So instead of chasing every new trend, I want to develop something more valuable:
-
-**The ability to learn.**
-
----
-
-# 🔥 14 // PRINCIPLES I WANT TO FOLLOW
-
-```text
-01  Stay Curious       → Always ask "Why?"
-02  Keep Learning      → Skills compound over time.
-03  Build Things       → Theory becomes stronger through practice.
-04  Embrace Failure    → Mistakes are part of development.
-05  Stay Creative      → Different perspectives create better ideas.
-06  Work With Others   → Great products are rarely built alone.
-07  Keep Improving     → Version 2 should be better than Version 1.
-```
-
----
-
-# 📊 15 // GITHUB JOURNEY
-
-This repository will evolve along with me.
-
-As I learn more, I plan to add:
-
-- 📁 Projects
-- 🧪 Experiments
-- 📝 Learning notes
-- 💻 Code
-- 🏆 Hackathon work
-- 🚀 Future achievements
-
-Think of this repository as a **digital timeline of my growth**.
-
-```text
-TODAY
-  │
-  ├── Learn
-  ├── Experiment
-  └── Build
-       │
-       ↓
-    TOMORROW
-       │
-       ├── Improve
-       ├── Collaborate
-       └── Create
-            │
-            ↓
-         FUTURE
-            │
-            └── 🚀 Innovate
-```
+                         MY TECH JOURNEY
+                              │
+                              ▼
+                     ┌─────────────────┐
+                     │     2026        │
+                     │  FOUNDATION     │
+                     └────────┬────────┘
+                              │
+                ┌─────────────┼─────────────┐
+                ▼             ▼             ▼
+            Programming     Git/GitHub     Web
+                │             │             │
+                └─────────────┼─────────────┘
+                              ▼
+                     ┌─────────────────┐
+                     │     2027        │
+                     │     BUILD       │
+                     └────────┬────────┘
+                              │
+                    Projects • Hackathons
+                              │
+                              ▼
+                     ┌─────────────────┐
+                     │     2028        │
+                     │     EXPLORE     │
+                     └────────┬────────┘
+                              │
+                    AI • Open Source
+                              │
+                              ▼
+                     ┌─────────────────┐
+                     │   2029 →        │
+                     │     CREATE      │
+                     └────────┬────────┘
+                              │
+                              ▼
+                       🚀 KEEP BUILDING
 
 ---
 
-# 🌐 16 // CONNECT WITH ME
+🎯 "12 // FUTURE GOALS"
 
-I'm always interested in connecting with people who enjoy technology, creativity, learning, and building new things.
+🟢 Short Term
 
-| Platform | Connect |
-|---|---|
-| 💻 GitHub | [Visit My GitHub](https://github.com/nivdv03-droid/Nived-krishnan-v/blob/main/README.md) |
-| 👨🏻‍💻Email | [Visit My E-mail ](nivd.v03@gmail.com) |
-| 💼 LinkedIn | [Connect on LinkedIn](https://www.linkedin.com/in/nived-krishnan-898b29432?utm_source=share_via&utm_content=profile&utm_medium=member_android) |
+- Strengthen programming fundamentals
+- Build useful beginner projects
+- Improve problem-solving ability
+- Learn web development
+- Become comfortable with Git and GitHub
 
-| 🪽Instagram | [Connect on Instagram](https://www.instagram.com/nivd.krxn?igsi=eGw3NGphY296Yjg=member_android) |
+🟡 Mid Term
 
+- Build larger projects
+- Explore AI and machine learning
+- Participate in hackathons
+- Collaborate with developers
+- Contribute to open-source projects
+
+🔴 Long Term
+
+- Become a strong technology professional
+- Build software that solves real problems
+- Explore emerging technologies
+- Create meaningful products
+- Keep learning throughout my career
 
 ---
 
-# 🛰️ 17 // SYSTEM STATUS
+📊 "13 // GITHUB ANALYTICS"
 
-```text
-╭────────────────────────────────────────────╮
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=nivdv03-droid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /><br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nivdv03-droid&theme=tokyonight&hide_border=true" /></div>---
+
+🐍 "14 // CONTRIBUTION SNAKE"
+
+<div align="center">Watch my contributions come alive 🐍
+
+<img src="https://raw.githubusercontent.com/nivdv03-droid/Nived-krishnan-v/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" /></div>---
+
+⚡ "15 // MY MINDSET"
+
+┌─────────────────────────────────────────┐
+│                                         │
+│     DON'T JUST CONSUME TECHNOLOGY.      │
+│                                         │
+│             UNDERSTAND IT.              │
+│                 ↓                       │
+│             EXPERIMENT.                 │
+│                 ↓                       │
+│               BUILD.                    │
+│                 ↓                       │
+│              IMPROVE.                   │
+│                 ↓                       │
+│               CREATE.                   │
+│                                         │
+└─────────────────────────────────────────┘
+
+«Every expert was once a beginner who kept going.»
+
+---
+
+🛰️ "16 // SYSTEM STATUS"
+
+╭─────────────────────────────────────────────╮
 │              NIVED_OS v1.0                  │
-├────────────────────────────────────────────┤
-│                                            │
-│  Education       : B.Tech IT               │
-│  Status          : ONLINE 🟢               │
-│  Learning        : ACTIVE                  │
-│  Curiosity       : ██████████ 100%         │
-│  Creativity      : █████████░  90%         │
-│  Coding          : ██████░░░░  LEARNING    │
-│  Problem Solving : ███████░░░  DEVELOPING  │
-│  Motivation      : ██████████ 100%         │
-│                                            │
-│  Mission         : BUILD THE FUTURE        │
-│                                            │
-╰────────────────────────────────────────────╯
-```
+├─────────────────────────────────────────────┤
+│                                             │
+│  STATUS             : 🟢 ONLINE             │
+│  MODE               : LEARNING              │
+│  CURIOSITY          : ██████████ 100%       │
+│  CREATIVITY         : █████████░  90%       │
+│  PROBLEM SOLVING    : ███████░░░  DEVELOPING│
+│  PROGRAMMING        : ██████░░░░  LEARNING  │
+│  AI EXPLORATION     : █████░░░░░  ACTIVE    │
+│  BUILD MODE         : ████████░░  ACTIVE    │
+│                                             │
+│  MISSION            : BUILD THE FUTURE      │
+│                                             │
+╰─────────────────────────────────────────────╯
 
 ---
 
-# 🚀 18 // FINAL TRANSMISSION
+🌐 "17 // CONNECT"
 
-I'm still at the beginning.
+<div align="center"><a href="https://github.com/nivdv03-droid">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a><a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a></div>---
 
-There are many technologies I haven't learned, many problems I haven't solved, and countless things I haven't built yet.
+🔥 "18 // FINAL TRANSMISSION"
 
-And that's exactly what makes the journey exciting.
+                START
+                  │
+                  ▼
+               LEARN
+                  │
+                  ▼
+              EXPERIMENT
+                  │
+                  ▼
+                BUILD
+                  │
+                  ▼
+                FAIL
+                  │
+                  ▼
+               IMPROVE
+                  │
+                  ▼
+               CREATE
+                  │
+                  ▼
+              INNOVATE
+                  │
+                  ▼
+                  🚀
 
-```text
-                 START
-                   │
-                   ↓
-              ┌─────────┐
-              │  LEARN  │
-              └────┬────┘
-                   ↓
-              ┌─────────┐
-              │  BUILD  │
-              └────┬────┘
-                   ↓
-              ┌─────────┐
-              │  FAIL   │
-              └────┬────┘
-                   ↓
-              ┌─────────┐
-              │ IMPROVE │
-              └────┬────┘
-                   ↓
-              ┌─────────┐
-              │  BUILD  │
-              └────┬────┘
-                   ↓
-              ┌─────────┐
-              │ CREATE  │
-              └────┬────┘
-                   ↓
-                🚀 NEXT
-```
+The journey has just begun.
 
-### **This is only Version 1.**
+I'm not trying to become perfect overnight.
 
-**The journey has just begun.**
+I'm trying to become better than yesterday.
 
----
+<br><div align="center">⚡ "LEARN • BUILD • CREATE • IMPROVE" ⚡
 
-<p align="center">
+— Nived Krishnan V
 
-### ⚡ LEARN • BUILD • CREATE • IMPROVE ⚡
-
-**© 2026 Nived Krishnan V**
-
-</p>
+</div>

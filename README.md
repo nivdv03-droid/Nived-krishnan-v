@@ -315,24 +315,7 @@ My long-term goal is to become someone who can **take an idea from a blank page 
 
 ---
 
-<h2>🐍 CONTRIBUTION MATRIX</h2>
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/nivdv03-droid/Nived-krishnan-v/output/github-snake-dark.svg">
-
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/nivdv03-droid/Nived-krishnan-v/output/github-snake.svg">
-
-  <img
-    src="https://raw.githubusercontent.com/nivdv03-droid/Nived-krishnan-v/output/github-snake.svg"
-    width="900"
-    alt="GitHub Contribution Snake">
-</picture>
-
-</div>
 
 # ⚙️ SYSTEM STATUS
 

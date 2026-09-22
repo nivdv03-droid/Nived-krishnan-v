@@ -1,5 +1,9 @@
 # ⚡ Nived Krishnan V
+<div align="center">
 
+<img src="./assets/dinosaur.gif" width="900" alt="Nived Krishnan animated dinosaur">
+
+</div>
 ### 💻 B.Tech Information Technology Student | 🚀 Tech Explorer | 🎨 Creative Thinker
 
 > **“The future belongs to those who keep learning, building, and creating.”**

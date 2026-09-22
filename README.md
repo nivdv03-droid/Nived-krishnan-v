@@ -131,6 +131,9 @@ My GitHub is becoming a collection of experiments and projects.
 ╚══════════════════════════════════════════════╝
 ```
 
+**Important:** Keep the **last three backticks** exactly as shown. They close the box so the sections after it don't get turned into code.
+
+Then **Commit changes → refresh your profile**.
 ### 🔭 Coming Soon
 
 - 🤖 AI-based experiments

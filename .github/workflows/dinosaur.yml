@@ -1,4 +1,4 @@
-name: 🦖 Generate Dinosaur Animation
+name: 🦖 Generate Walking Dinosaur
 
 on:
   workflow_dispatch:
@@ -14,33 +14,140 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: 🚀 Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: 🐍 Generate futuristic dinosaur GIF
+      - name: Create animation
         run: |
-          sudo apt-get update
-          sudo apt-get install -y imagemagick
+          python3 -m pip install pillow
 
           mkdir -p assets
 
-          convert -size 1000x300 xc:'#050914' \
-            -gravity center \
-            -fill '#00e5ff' \
-            -pointsize 28 \
-            -annotate +0-100 'SYSTEM TRAVELLER // 001' \
-            -fill '#7CFF00' \
-            -pointsize 42 \
-            -annotate +0+20 '🦖  >>>>>>>>>>>>>>>>>>>>' \
-            -fill '#00e5ff' \
-            -pointsize 20 \
-            -annotate +0+100 'EXPLORING THE FUTURE...' \
-            assets/dinosaur.gif
+          cat > make_dinosaur.py <<'PY'
+          from PIL import Image, ImageDraw
 
-      - name: 💾 Save animation
+          W, H = 1000, 300
+
+          for frame in range(16):
+              img = Image.new("RGB", (W, H), (4, 8, 20))
+              d = ImageDraw.Draw(img)
+
+              # futuristic grid
+              for x in range(0, W, 50):
+                  d.line((x, 190, x, H), fill=(10, 35, 50), width=1)
+
+              for y in range(190, H, 25):
+                  d.line((0, y, W, y), fill=(10, 35, 50), width=1)
+
+              # ground
+              d.line((0, 220, W, 220), fill=(0, 220, 255), width=2)
+
+              # dinosaur position
+              x = 40 + frame * 55
+
+              # body
+              d.rounded_rectangle(
+                  (x, 145, x + 120, 195),
+                  radius=18,
+                  fill=(80, 220, 90)
+              )
+
+              # neck
+              d.rectangle(
+                  (x + 85, 110, x + 115, 160),
+                  fill=(80, 220, 90)
+              )
+
+              # head
+              d.rounded_rectangle(
+                  (x + 90, 85, x + 155, 125),
+                  radius=10,
+                  fill=(80, 220, 90)
+              )
+
+              # eye
+              d.ellipse(
+                  (x + 132, 94, x + 140, 102),
+                  fill=(255, 255, 255)
+              )
+
+              # eye glow
+              d.ellipse(
+                  (x + 134, 96, x + 138, 100),
+                  fill=(0, 240, 255)
+              )
+
+              # tail
+              d.polygon(
+                  [(x + 5, 150), (x - 75, 125), (x - 10, 170)],
+                  fill=(60, 190, 80)
+              )
+
+              # legs - alternate movement
+              if frame % 2 == 0:
+                  legs = [
+                      (x + 25, 190, x + 10, 225),
+                      (x + 85, 190, x + 105, 225)
+                  ]
+              else:
+                  legs = [
+                      (x + 25, 190, x + 40, 225),
+                      (x + 85, 190, x + 70, 225)
+                  ]
+
+              for leg in legs:
+                  d.line(leg, fill=(80, 220, 90), width=12)
+
+              # claws
+              d.line((x + 5, 225, x + 18, 225), fill=(0, 220, 255), width=3)
+              d.line((x + 98, 225, x + 111, 225), fill=(0, 220, 255), width=3)
+
+              # spikes
+              for i in range(5):
+                  sx = x + 20 + i * 20
+                  d.polygon(
+                      [(sx, 145), (sx + 10, 125), (sx + 18, 145)],
+                      fill=(0, 220, 255)
+                  )
+
+              # futuristic text
+              d.text(
+                  (W // 2 - 170, 25),
+                  "SYSTEM TRAVELLER // 001",
+                  fill=(0, 230, 255)
+              )
+
+              d.text(
+                  (W // 2 - 130, 55),
+                  "EXPLORING THE FUTURE...",
+                  fill=(120, 255, 120)
+              )
+
+              img.save(f"assets/frame_{frame:02d}.png")
+
+          frames = [
+              Image.open(f"assets/frame_{i:02d}.png")
+              for i in range(16)
+          ]
+
+          frames[0].save(
+              "assets/dinosaur.gif",
+              save_all=True,
+              append_images=frames[1:],
+              duration=100,
+              loop=0
+          )
+          PY
+
+          python3 make_dinosaur.py
+
+          rm assets/frame_*.png
+          rm make_dinosaur.py
+
+      - name: Save animation
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets/dinosaur.gif
-          git commit -m "Add futuristic dinosaur animation" || echo "No changes"
+          git commit -m "Create animated futuristic dinosaur" || echo "No changes"
           git push

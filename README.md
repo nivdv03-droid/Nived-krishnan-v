@@ -222,18 +222,6 @@ A small idea can still be the beginning of something much bigger.
 
 <img src="./assets/dinosaur.gif" width="850" alt="Animated futuristic dinosaur">
 
-### `SYSTEM TRAVELLER // 001`
-
-```text
-[████████████████████████████████████████]
-
-        🦖  >>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-[████████████████████████████████████████]
-
-          EXPLORING THE FUTURE...
-```
-
 </div>
 
 ---
@@ -440,29 +428,3 @@ My long-term goal is to become someone who can **take an idea from a blank page 
 **Still learning. Still building. Still exploring.**
 
 </div>
-# 🌌 FINAL TRANSMISSION
-
-<div align="center">
-
-```text
-╭──────────────────────────────────────────────╮
-│                                              │
-│     LEARN SOMETHING.                        │
-│     BUILD SOMETHING.                        │
-│     BREAK SOMETHING.                        │
-│     FIX IT.                                  │
-│     BUILD IT BETTER.                        │
-│                                              │
-╰──────────────────────────────────────────────╯
-```
-
-### ⚡ Still learning. Still building. Still exploring.
-
-**Welcome to my journey.**
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:101010,100:050505&height=120&section=footer"/>
-
-</div>
-

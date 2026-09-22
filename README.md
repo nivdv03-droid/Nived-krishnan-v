@@ -13,6 +13,9 @@
 </div>
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=700&height=60&lines=Hello%2C+I'm+Nived+Krishnan+V;Information+Technology+Student;Learning+%7C+Building+%7C+Creating;Welcome+to+my+GitHub!" />
+</p>
 
 <h2>⚡ SYSTEM INITIALIZATION</h2>
 

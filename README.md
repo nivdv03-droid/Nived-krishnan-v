@@ -359,54 +359,24 @@ My long-term goal is to become someone who can **take an idea from a blank page 
 
 ---
 
-# 🌐 CONNECT
-
-<div align="center">
-
-<a href="https://github.com/nivdv03-droid">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-</div>
-
----
-
-# 🧑‍🚀 BEYOND CODE
-
-Technology isn't only about writing code.
-
-I also enjoy:
-
-🎨 **Drawing**  
-🧠 **Creative thinking**  
-🤝 **Teamwork**  
-🏆 **Competitions & Hackathons**  
-🔍 **Exploring new ideas**  
-📚 **Learning things outside my comfort zone**
-
----
 <h2 align="center">🌐 CONNECT WITH ME</h2>
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/nived-krishnan-898b29432?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 &nbsp;&nbsp;
 
 <a href="mailto:nivd.v03@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 &nbsp;&nbsp;
 
 <a href="https://github.com/nivdv03-droid">
-  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -415,18 +385,61 @@ I also enjoy:
 
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║        🌐  CONNECTION TERMINAL // ONLINE               ║
-║                                                          ║
-║        ┌────────────┐   ┌────────────┐   ┌──────────┐   ║
-║        │ 💼 LINKEDIN│   │ 📧  EMAIL  │   │ 🐙 GITHUB│   ║
-║        └────────────┘   └────────────┘   └──────────┘   ║
-║                                                          ║
-║              STATUS : ● AVAILABLE                       ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=600&lines=CONNECTION+TERMINAL+%2F%2F+ONLINE;LET'S+BUILD+SOMETHING+GREAT;ALWAYS+OPEN+TO+NEW+IDEAS;SYSTEM+STATUS+%3A+AVAILABLE" alt="Connection Terminal">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+💼<br>
+<b>LINKEDIN</b><br>
+<sub>Let's connect</sub>
+
+</td>
+
+<td width="40"></td>
+
+<td align="center">
+
+📧<br>
+<b>EMAIL</b><br>
+<sub>Let's talk</sub>
+
+</td>
+
+<td width="40"></td>
+
+<td align="center">
+
+🐙<br>
+<b>GITHUB</b><br>
+<sub>Explore my work</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### ⚡ FINAL TRANSMISSION
+
+`LEARN → BUILD → BREAK → FIX → IMPROVE → REPEAT`
+
+<br>
+
+**Still learning. Still building. Still exploring.**
+
+</div>
 # 🌌 FINAL TRANSMISSION
 
 <div align="center">

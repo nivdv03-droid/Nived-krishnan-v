@@ -14,26 +14,21 @@
 
 ---
 
-# ⚡ SYSTEM INITIALIZATION
+<h2>⚡ SYSTEM INITIALIZATION</h2>
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                    NIVED KRISHNAN V                          ║
-║                  DIGITAL PROFILE v2.0                       ║
-╠══════════════════════════════════════════════════════════════╣
-║ STATUS       : ONLINE                                       ║
-║ ROLE         : B.Tech IT Student                            ║
-║ INSTITUTION  : Government Engineering College, Barton Hill ║
-║ MODE         : LEARNING / BUILDING / EXPLORING              ║
-║ INTEREST     : TECHNOLOGY × AI × CREATIVITY                 ║
-║ MISSION      : BUILD SOMETHING THAT MATTERS                 ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&height=60&lines=INITIALIZING+NIVED+KRISHNAN+V;SYSTEM+ONLINE+%7C+B.TECH+IT+STUDENT;LEARNING+%7C+BUILDING+%7C+EXPLORING;TECHNOLOGY+%C3%97+AI+%C3%97+CREATIVITY" />
+</p>
 
-> **"The future is something we build."**
+> ⚡ **SYSTEM STATUS:** `ONLINE`
 
----
-
+| SYSTEM | STATUS |
+|---|---|
+| 🎓 Role | B.Tech IT Student |
+| 🏫 Institution | Government Engineering College, Barton Hill |
+| 💻 Mode | Learning / Building / Exploring |
+| 🤖 Interest | Technology × AI × Creativity |
+| 🚀 Mission | Build something that matters |
 # 👨‍💻 ABOUT ME
 
 Hi! I'm **Nived Krishnan V**, an Information Technology student at **Government Engineering College, Barton Hill**.

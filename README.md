@@ -467,8 +467,8 @@ I'm always interested in connecting with people who enjoy technology, creativity
 |---|---|
 | 💻 GitHub | [Visit My GitHub](https://github.com/nivdv03-droid/Nived-krishnan-v/blob/main/README.md) |
 | 💼 LinkedIn | [Connect on LinkedIn](https://www.linkedin.com/in/nived-krishnan-898b29432?utm_source=share_via&utm_content=profile&utm_medium=member_android) |
-| 🪽 Instagram | [Connect on instagram ]
-( https://www.instagram.com/nivd.krxn?stkn=eGw3NGphY296Yjg= )|
+README.md) |
+| 🪽Instagram | [Connect on LinkedIn](https://www.instagram.com/nivd.krxn?igsi=eGw3NGphY296Yjg=member_android) |
 
 ---
 
